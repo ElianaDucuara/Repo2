@@ -1,0 +1,48 @@
+* {
+  font-family: sans-serif, "Raleway";
+}
+
+.font-weight-bold{
+    font-weight: 700 !important;
+}
+
+header {
+  background-image: url("../img/bg-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+.color {
+  background-color: #373a3c;
+}
+.card {
+  margin-bottom: 60px; /* Ajusta el valor del margen */
+}
+
+.fondo {
+  background-color: #17a2b8;
+}
+
+mb-5 my-5 {
+    margin-bottom: 3 rem !important;
+}
+      
+.text-light {
+    color: #ffff;
+}
+      
+.text-right {
+    text-align: right !important;
+}
+.card img{
+    height: 14.5em;
+}
+.label{
+    
+    text-align: left
+}
+.label label{
+    font-weight: 100px !important;
+}
+
+/*formulario
